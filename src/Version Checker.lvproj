@@ -200,7 +200,7 @@
 				<Property Name="Destination[2].type" Type="Str">userFolder</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="INST_author" Type="Str">NI</Property>
-				<Property Name="INST_buildLocation" Type="Path">../VI Version Checker/Builds v2/Installer</Property>
+				<Property Name="INST_buildLocation" Type="Path">../builds/Installer</Property>
 				<Property Name="INST_buildLocation.type" Type="Str">relativeToCommon</Property>
 				<Property Name="INST_buildSpecName" Type="Str">VI Version Checker Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{049D7E3E-C7F1-4C1F-B071-2DDA42E85C76}</Property>
@@ -429,8 +429,8 @@
 				<Property Name="Source[0].File[0].Shortcut[1].destIndex" Type="Int">4</Property>
 				<Property Name="Source[0].File[0].Shortcut[1].name" Type="Str">VI Version Checker</Property>
 				<Property Name="Source[0].File[0].Shortcut[1].subDir" Type="Str"></Property>
-				<Property Name="Source[0].File[0].ShortcutCount" Type="Int">2</Property>
 				<Property Name="Source[0].File[0].tag" Type="Str">{203A181E-E00E-4A65-AD55-C4EE3BAE3582}</Property>
+				<Property Name="Source[0].FileCount" Type="Int">1</Property>
 				<Property Name="Source[0].name" Type="Str">VI Version Checker</Property>
 				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/VI Version Checker</Property>
 				<Property Name="Source[0].type" Type="Str">EXE</Property>
@@ -453,7 +453,7 @@
 				<Property Name="Source[3].name" Type="Str">ReadMe.rtf</Property>
 				<Property Name="Source[3].tag" Type="Ref"></Property>
 				<Property Name="Source[3].type" Type="Str">File</Property>
-				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
 			</Item>
 		</Item>
 	</Item>
