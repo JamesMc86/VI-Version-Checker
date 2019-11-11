@@ -1,0 +1,11 @@
+project - yes - LabVIEWProject
+class - yes - LabVIEWClass
+library - yes - LabVIEWLibrary
+packed library - yes - LabVIEWPacked Library
+vi - yes - LabVIEWInstrument
+control - yes - LabVIEWControl
+ctt - LabVIEWControlTemplate
+vit - yes - LabVIEWInstrumentTemplate
+xctl - yes - LabVIEWXControl
+
+llb - no, not seen as file?
